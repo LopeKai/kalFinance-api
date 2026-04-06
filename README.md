@@ -1,1 +1,1 @@
-ORM -> Object-relation mapping. não precisa saber SQL, vamos escrever é muito semantico muito proximo de uma linguagem de alto nivel. Temos um dos mais famosos(PRISMA)
+API PROJECT KALFINANCE
