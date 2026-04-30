@@ -1,4 +1,3 @@
-import "dotenv/config";
 import { plainToInstance } from "class-transformer";
 import { IsNotEmpty, IsString, NotEquals, validateSync } from "class-validator"
 

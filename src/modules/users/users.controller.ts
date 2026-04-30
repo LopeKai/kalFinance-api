@@ -10,7 +10,7 @@ export class UsersController {
 
   @Get('/me')
   me(@Req() request: any) {
-    return this.usersService.getUserById('userid');
+    return this.usersService.getUserById(request.userId);
   }
 }
 
