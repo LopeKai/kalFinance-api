@@ -10,5 +10,4 @@ export class CategoriesService {
       where: { userId }
     })
   }
-
 }
